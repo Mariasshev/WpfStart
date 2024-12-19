@@ -8,5 +8,18 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
 
+        <Grid>
+            <Button Content="Navy" HorizontalAlignment="Left" Margin="10,21,0,0" VerticalAlignment="Top" Width="68" Height="35"/>
+        </Grid>
+
+        <Grid>
+            <Button Content="Blue" HorizontalAlignment="Left" Margin="112,22,0,0" VerticalAlignment="Top" Width="68" Height="35"/>
+            <Button Content="Aqua" HorizontalAlignment="Left" Margin="209,22,0,0" VerticalAlignment="Top" Width="68" Height="35"/>
+            <Button Content="Teal" HorizontalAlignment="Left" Margin="303,22,0,0" VerticalAlignment="Top" Width="68" Height="35"/>
+            <Button Content="Button" HorizontalAlignment="Left" Margin="400,22,0,0" VerticalAlignment="Top" Width="68" Height="35"/>
+            <Button Content="Button" HorizontalAlignment="Left" Margin="501,22,0,0" VerticalAlignment="Top" Width="68" Height="35"/>
+            <Button Content="Button" HorizontalAlignment="Left" Margin="594,22,0,0" VerticalAlignment="Top" Width="68" Height="35"/>
+        </Grid>
+
     </Grid>
 </Window>
